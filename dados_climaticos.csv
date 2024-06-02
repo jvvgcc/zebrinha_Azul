@@ -1,0 +1,27 @@
+id,cidade,longitude,latitude,descrição,temperatura,temperatura_mínima,temperatura_máxima
+3662574,Rio Branco,-67.81,-9.9747,algumas nuvens,28,28,28
+3407762,Amapá,-52.0,1.0,nublado,24,24,24
+3663517,Manaus,-60.025,-3.1019,nuvens dispersas,25,25,26
+3405870,Belém,-48.5044,-1.4558,nublado,25,25,25
+3662762,Porto Velho,-63.9039,-8.7619,algumas nuvens,32,32,32
+3664980,Boa Vista,-60.6733,2.8197,nuvens dispersas,26,26,26
+3474574,Palmas,-48.3603,-10.2128,céu limpo,27,27,27
+3395981,Maceió,-35.7353,-9.6658,nublado,25,25,25
+3585968,Salvador,-88.9167,13.8333,nublado,31,27,31
+6320062,Fortaleza,-38.5247,-3.7227,céu limpo,28,28,28
+3388368,São Luís,-44.3028,-2.5297,trovoadas,26,26,26
+3397277,João Pessoa,-34.8631,-7.115,nublado,27,27,27
+3390760,Recife,-34.8811,-8.0539,nublado,27,27,27
+3394023,Natal,-35.2094,-5.795,névoa,25,25,25
+3471872,Aracaju,-37.0717,-10.9111,nuvens dispersas,26,26,26
+3469058,Brasília,-47.9297,-15.7797,nuvens dispersas,21,18,21
+3462377,Goiânia,-49.2539,-16.6786,céu limpo,24,24,24
+3465038,Cuiabá,-56.0967,-15.5961,céu limpo,31,31,31
+3467747,Campo Grande,-54.6464,-20.4428,céu limpo,25,25,25
+3444924,Vitória,-40.3378,-20.3194,algumas nuvens,22,22,22
+3470127,Belo Horizonte,-43.9378,-19.9208,céu limpo,19,18,19
+3451190,Rio de Janeiro,-43.2075,-22.9028,nuvens dispersas,22,22,24
+3448439,São Paulo,-46.6361,-23.5475,céu limpo,17,16,19
+6322752,Curitiba,-49.2908,-25.504,algumas nuvens,15,12,17
+3452925,Porto Alegre,-51.23,-30.0331,céu limpo,17,15,18
+6323121,Florianópolis,-48.5012,-27.6146,algumas nuvens,17,17,18
